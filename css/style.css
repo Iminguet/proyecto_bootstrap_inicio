@@ -19,3 +19,37 @@
 .columna03 .col {
   background-color: pink;
 }
+
+.reto5 {
+  background-color: aquamarine;
+}
+
+.fila01 {
+  background-color: rgb(218, 143, 143);
+}
+.fila01 .col {
+  background-color: bisque;
+  height: 5em;
+}
+.fila02 {
+  background-color: rgb(92, 67, 67);
+}
+.fila02 .col-3 {
+  background-color: antiquewhite;
+  height: 5em;
+}
+
+.fila03 .col-5 {
+  background-color: blueviolet;
+  height: 5em;
+}
+
+.fila04 .col-11 {
+  background-color: brown;
+  height: 5em;
+}
+
+.row p {
+  display: flex;
+  place-items: center;
+}
