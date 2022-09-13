@@ -1,0 +1,21 @@
+.container-fluid {
+  color: aliceblue;
+  color: black;
+}
+
+.row {
+  border-radius: 0.2em;
+}
+
+.columna01 .col {
+  background-color: aqua;
+}
+
+.columna02 .col {
+  background-color: purple;
+  color: antiquewhite;
+}
+
+.columna03 .col {
+  background-color: pink;
+}
